@@ -1,6 +1,8 @@
 # BertQA
 
-This is a working repo for the Kaggle Tensor 2.0 Question Answering Kaggle competition. Before being recurited by the project leader for a Portland based data science team wanting to compete in this competition I had not entered a Kaggle competition before. My kaggle account is https://www.kaggle.com/howardgoff.
+These are files from a Kaggle competition https://www.kaggle.com/c/tensorflow2-question-answering/ which involved using the BERT natural language deep learning model created by Google to make predictions on where on a wikipedia page the answer to a question was located. I was recruited by two other data scientists in Portland to lead a team in the competition and on January 22, 2020 we finished in the top 10% (119 out of 1240).
+
+This was my first Kaggle competition, my kaggle account is https://www.kaggle.com/howardgoff.
 
 **_12/06/19_** - The team met to discuss the competition, how to organize work on the project and explore the data. A decision was made to explore Google Colab as an alternative platform for development rather than using the default Kaggle platform. Because of my experience in development operations I agreed to explore Colab and figure out how to interface it with Kaggle. My initial attempts at this can be seen in ColabGettingStarted.ipnyb
 
